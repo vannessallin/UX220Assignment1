@@ -1,4 +1,4 @@
-Browser Blog
+UX220 Assignment 1 start
 ===
 
 To run:
